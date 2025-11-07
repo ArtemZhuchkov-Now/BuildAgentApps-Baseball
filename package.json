@@ -1,0 +1,22 @@
+{
+    "name": "x-snc-baseball-pla",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  A comprehensive scouting analysis application for baseball players featuring player statistics, performance metrics, and visual dashboards for talent evaluation and team management.",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.0.2",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "4.0.2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_baseball_pla",
+  "scopeId": "97a0ed05eb857210c5a4fd6ffdc0cd5f",
+  "name": "Baseball Pla",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
